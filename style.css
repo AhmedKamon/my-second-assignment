@@ -11,8 +11,8 @@ img{
     font-size: 18px;
 }
 nav ul li a:hover{
-    background: #76c27e;
-    color: gray;
+    background: #ffffff;
+    color: rgb(0, 0, 0);
     border-radius: 5px;
 }
 .colored-text{
